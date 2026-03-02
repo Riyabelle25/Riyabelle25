@@ -10,7 +10,7 @@
 
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpsNjh5c2diczh3aGRpNDlmYWQ4ZTRzeTJoMzY3aTFqaWxkeGw3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dWxO36Jzd6bTSt5dIY/giphy.gif" width="300" paddingBottom="20" paddingTop="20">
 
-### ✨ I learn the best by building stuff ⚒️✨
+### ✨ I learn best by building things ⚒️
 
 
 Despite being an avid reader, I’ve always chosen to ground my understanding through hands-on code rather than poring over heavy theory.
@@ -50,10 +50,12 @@ Having worked on the application layer of **AI-integrated software systems**, I'
 
 <br>
 
+<!--
 ### 🚀 Software Engineering Core competencies
-<<TODO>> 
+<< TODO >> 
 
 <br>
+-->
 
 
 ## 🛠️ Tech I've Worked With
