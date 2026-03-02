@@ -16,10 +16,10 @@
 Despite being an avid reader, I’ve always chosen to ground my understanding through hands-on code rather than poring over heavy theory.
 
 Over the years, I’ve explored and worked across multiple domains: 
-- android dev **(Java/Kotlin/Flutter)**,
+- applied AI/ML (**scikit-learn** etc., ML frameworks/**Pytorch/Tensorflow**)
 - frontend stack **(React/TS/CSS libraries)**,
 - backend services **(C++/Python/JS)** and
-- applied AI/ML (**scikit-learn** etc., ML frameworks/**Pytorch/Tensorflow**),
+- android dev **(Java/Kotlin/Flutter)**,
 
 <br></br>
 Today,  I'm a Software Engineering grad student at **Carnegie Mellon University**, studying at the intersection of **AI and high-performance systems**.
